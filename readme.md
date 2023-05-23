@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<iframe src="https://giphy.com/embed/MeJgB3yMMwIaHmKD4z" width="480" height="394" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/2000s-00s-middle-school-MeJgB3yMMwIaHmKD4z">via GIPHY</a></p>
+<img src="https://media3.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif?cid=ecf05e47ee0bc80egnmn3ve8ppbisy9usy9zis4egbxex61j&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 </div>
 
 <div id="badges" align="center">
